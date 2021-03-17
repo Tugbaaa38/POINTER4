@@ -1,0 +1,2 @@
+# POINTER4
+PointerKisaBirBilgi
